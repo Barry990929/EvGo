@@ -4,4 +4,4 @@
 ![康軒數位高手](screenshot/fknsh.jpg)
 ![翰林行動大師](screenshot/fhle.jpg)
 ![翰林輔材網](screenshot/fhleref.jpg)
-![南一數位資源](screenshot/fnani.jpg)
+![南一數位資源](screenshot/fnani.jpg?233)
