@@ -4,3 +4,7 @@
 ＃部分參考 J56tw 大大 Code.Js。逆向部分為自寫 如 康軒數位高手、翰林行動大師（另外我沒有康軒帳密，不要向我索取）
 
 <img src="screenshot/fRoot.jpg" alt="主畫面" width="500"><img src="screenshot/fknsh.jpg" alt="康軒數位高手" width="500"><img src="screenshot/fhle.jpg" alt="翰林行動大師]" width="500"><img src="screenshot/fhleref.jpg" alt="翰林輔材網" width="500"><img src="screenshot/fnani.jpg?233" alt="南一數位資源" width="500">
+
+如果你有任何問題或建議，可以通過以下方式聯絡我：
+＃ [提交 Issue](https://github.com/evonisme/EvGo/issues)
+＃ [討論與建議](https://github.com/evonisme/EvGo/discussions)
